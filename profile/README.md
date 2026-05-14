@@ -60,7 +60,7 @@ Roadmap ini kami perbarui setiap semester seiring berjalannya perkuliahan. Semes
 | **Sem 7** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
 | **Sem 8** | 🔜 Belum Dimulai | Capstone & Tugas Akhir | *Menyesuaikan topik skripsi* |
 
-> 📌 *Kolom TBD akan diperbarui oleh Komting atau PJ Dokumentasi di awal setiap semester baru.*
+> 📌 *Kolom TBD akan diperbarui oleh Komting di awal setiap semester baru.*
 
 ---
 
