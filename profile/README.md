@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-# 💻 Rombel 3 — Teknik Informatika UNNES 2025
+# 💻 Rombel 3 Teknik Informatika UNNES 2025
 
 ### *"Connecting Codes, Building Culture, Growing Together."*
 
@@ -23,7 +23,7 @@
 
 ## 🏛️ Tentang Kami
 
-Selamat datang di **GitHub Organization resmi Rombel 3, Program Studi Teknik Informatika, Universitas Negeri Semarang — Angkatan 2025**.
+Selamat datang di **GitHub Organization resmi Rombel 3, Program Studi Teknik Informatika, Universitas Negeri Semarang, Angkatan 2025**.
 
 Organisasi ini adalah ekosistem kolaborasi digital yang kami bangun bersama sejak semester pertama. Lebih dari sekadar tempat mengumpulkan tugas, ini adalah ruang dokumentasi perjalanan akademik kami dari **Semester 1 hingga Semester 8** — dari baris kode pertama di C++ sampai membangun aplikasi fullstack yang siap produksi.
 
