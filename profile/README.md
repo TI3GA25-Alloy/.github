@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-# 💻 Rombel 3 Teknik Informatika UNNES 2025
+# Rombel 3 Teknik Informatika UNNES 2025
 
 ### *"Connecting Codes, Building Culture, Growing Together."*
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🏛️ Tentang Kami
+## Tentang Kami
 
 Selamat datang di **GitHub Organization resmi Rombel 3, Program Studi Teknik Informatika, Universitas Negeri Semarang, Angkatan 2025**.
 
@@ -31,12 +31,12 @@ Organisasi ini adalah ekosistem kolaborasi digital yang kami bangun bersama seja
 
 ---
 
-## 🎯 Misi & Visi
+## Misi & Visi
 
-**🔭 Visi:**
+**Visi:**
 Menjadi komunitas belajar berbasis teknologi yang produktif, inklusif, dan berorientasi pada kualitas, sekaligus mempersiapkan setiap anggota untuk berkontribusi nyata di industri teknologi maupun riset.
 
-**🚀 Misi:**
+**Misi:**
 
 * Mendokumentasikan seluruh perjalanan akademik (Semester 1 hingga 8) secara terstruktur dan terbuka.
 * Membangun budaya *code review*, kolaborasi, dan *knowledge sharing* yang konsisten.
@@ -51,24 +51,24 @@ Roadmap ini kami perbarui setiap semester seiring berjalannya perkuliahan. Semes
 
 | Semester | Status | Fokus Utama | Bahasa Pemorgraman |
 |----------|--------|-------------|-----------------|
-| **Sem 1** | ✅ Selesai | Dasar Pemrograman & Logika | `C++` |
-| **Sem 2** | 🟡 Sedang Berjalan | Web Fundamentals & OOP | `C++` |
-| **Sem 3** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
-| **Sem 4** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
-| **Sem 5** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
-| **Sem 6** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
-| **Sem 7** | 🔜 Belum Dimulai | *Akan diperbarui* | *TBD* |
-| **Sem 8** | 🔜 Belum Dimulai | Capstone & Tugas Akhir | *Menyesuaikan topik skripsi* |
+| **Sem 1** | Selesai | Dasar Pemrograman & Logika | `C++` |
+| **Sem 2** | Sedang Berjalan | Web Fundamentals & OOP | `C++` |
+| **Sem 3** | Belum Dimulai | *Akan diperbarui* | *TBD* |
+| **Sem 4** | Belum Dimulai | *Akan diperbarui* | *TBD* |
+| **Sem 5** | Belum Dimulai | *Akan diperbarui* | *TBD* |
+| **Sem 6** | Belum Dimulai | *Akan diperbarui* | *TBD* |
+| **Sem 7** | Belum Dimulai | *Akan diperbarui* | *TBD* |
+| **Sem 8** | Belum Dimulai | Capstone & Tugas Akhir | *Menyesuaikan topik skripsi* |
 
-> 📌 *Kolom TBD akan diperbarui oleh Komting di awal setiap semester baru.*
+> *Kolom TBD akan diperbarui oleh Komting di awal setiap semester baru.*
 
 ---
 
-## 🛠️ Tech Stack yang Dipelajari
+## Tech Stack yang Dipelajari
 
 Berikut adalah kumpulan teknologi yang sudah dan sedang kami pelajari sepanjang perkuliahan.
 
-### 🌐 Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -81,7 +81,7 @@ Berikut adalah kumpulan teknologi yang sudah dan sedang kami pelajari sepanjang 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Runtime
+### Backend & Runtime
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -89,7 +89,7 @@ Berikut adalah kumpulan teknologi yang sudah dan sedang kami pelajari sepanjang 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
-### 🗄️ Database & ORM
+### Database & ORM
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -97,7 +97,7 @@ Berikut adalah kumpulan teknologi yang sudah dan sedang kami pelajari sepanjang 
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 </p>
 
-### 📱 Mobile & Bahasa Umum
+### Mobile & Bahasa Umum
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
@@ -108,7 +108,7 @@ Berikut adalah kumpulan teknologi yang sudah dan sedang kami pelajari sepanjang 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Lainnya
+### Tools & Lainnya
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -120,7 +120,7 @@ Berikut adalah kumpulan teknologi yang sudah dan sedang kami pelajari sepanjang 
 
 ---
 
-## 📂 Struktur Repositori
+## Struktur Repositori
 
 Repositori dalam organisasi ini dikelola dengan konvensi penamaan yang konsisten agar mudah dinavigasi oleh seluruh anggota.
 
@@ -145,7 +145,7 @@ Repositori dalam organisasi ini dikelola dengan konvensi penamaan yang konsisten
 
 ---
 
-## 🤝 Cara Berkontribusi
+## Cara Berkontribusi
 
 Organisasi ini milik kita semua. Berikut langkah untuk ikut berkontribusi:
 
@@ -155,9 +155,9 @@ Organisasi ini milik kita semua. Berikut langkah untuk ikut berkontribusi:
 4. **Push** ke branch: `git push origin feat/nama-kontribusimu`
 5. Buka **Pull Request** dan minta review dari minimal 1 anggota lain.
 
-> 💡 *No contribution is too small!* Memperbaiki typo di dokumentasi pun sangat berarti bagi kami.
+> *No contribution is too small!* Memperbaiki typo di dokumentasi pun sangat berarti bagi kami.
 
-### 📋 Panduan Pull Request
+### Panduan Pull Request
 
 * Sertakan deskripsi jelas tentang **apa** yang diubah dan **mengapa**.
 * Tambahkan screenshot atau demo jika memungkinkan.
@@ -166,7 +166,7 @@ Organisasi ini milik kita semua. Berikut langkah untuk ikut berkontribusi:
 
 ---
 
-## 🌟 Budaya Kolaborasi Kami
+## Budaya Kolaborasi Kami
 
 | Nilai | Penerapan |
 |-------|-----------|
@@ -178,7 +178,7 @@ Organisasi ini milik kita semua. Berikut langkah untuk ikut berkontribusi:
 
 ---
 
-## 📚 Resource & Akses Cepat
+## Resource & Akses Cepat
 
 Penunjang produktivitas akademik Rombel 3:
 
@@ -190,7 +190,7 @@ Penunjang produktivitas akademik Rombel 3:
 
 ---
 
-## 👥 Pengelola TI3GA-ALLOY
+## Pengelola TI3GA-ALLOY
 
 TI3GA-ALLOY ini dikelola secara kolektif oleh pengurus dari Rombel 3.
 
@@ -200,7 +200,7 @@ TI3GA-ALLOY ini dikelola secara kolektif oleh pengurus dari Rombel 3.
 
 ---
 
-## 📜 Code of Conduct
+## Code of Conduct
 
 Demi menjaga ekosistem yang sehat dan suportif, semua anggota wajib mematuhi hal berikut:
 
