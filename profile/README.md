@@ -45,7 +45,7 @@ Menjadi komunitas belajar berbasis teknologi yang produktif, inklusif, dan beror
 
 ---
 
-## 🗺️ Roadmap Perjalanan Akademik (Sem 1–8)
+## Roadmap Perjalanan Akademik (Sem 1–8)
 
 Roadmap ini kami perbarui setiap semester seiring berjalannya perkuliahan. Semester yang sudah kami jalani memiliki isian teknologi yang nyata, sementara semester berikutnya akan terus diisi seiring waktu.
 
